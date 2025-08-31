@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <table border="1">
+        <tr>
+            <td>nim</td>
+            <td>nama</td>
+            <td>umur</td>
+        </tr>
+
+        <tr>
+            <td>99001</td>
+            <td>Ali</td>
+            <td>21</td>
+        </tr>
+    </table>
+    <?php
+
+    ?>
+
+</body>
+
+</html>
